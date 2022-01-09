@@ -7,7 +7,7 @@ author: Jake
 description: Just A Simple Blog Where I Share My Thoughts, Opinions and Experiences.
 lang: en
 locale: en_US
-url: "https://jakesblog.github.io"
+url: "https://jakesblog.netlify.app"
 baseurl: ""
 
 # RSS feeds
